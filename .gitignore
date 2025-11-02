@@ -6,6 +6,9 @@
 /out-tsc
 /bazel-out
 19.2.19/
+/19.2.19
+babel-webpack/
+
 
 # Node
 /node_modules
